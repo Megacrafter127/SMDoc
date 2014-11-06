@@ -1,0 +1,6 @@
+obfuscated
+org.schema.game.client.view.buildhelper
+org.schema.game.common.controller
+org.schema.game.common.data.element
+org.schema.game.mod
+org.schema.schine.network
