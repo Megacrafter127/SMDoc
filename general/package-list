@@ -1,0 +1,10 @@
+obfuscated
+org.schema.game.client.view.buildhelper
+org.schema.game.common.controller
+org.schema.game.common.data.element
+org.schema.game.mod
+org.schema.schine.network
+org.schema.schine.network.objects
+org.schema.schine.network.objects.remote
+org.schema.schine.network.objects.remote.pool
+org.schema.schine.network.server
