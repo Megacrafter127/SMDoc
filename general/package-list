@@ -3,6 +3,7 @@ org.schema.game.client.view.buildhelper
 org.schema.game.common.controller
 org.schema.game.common.data.element
 org.schema.game.mod
+org.schema.game.mod.listeners
 org.schema.schine.network
 org.schema.schine.network.objects
 org.schema.schine.network.objects.remote
